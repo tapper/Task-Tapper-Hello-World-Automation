@@ -1,5 +1,4 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
-0.001     2012-11-14
         - Tapper - dependencies for an easy automation start
