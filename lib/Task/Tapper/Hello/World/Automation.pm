@@ -13,4 +13,8 @@ package Task::Tapper::Hello::World::Automation;
 
 =pkg Tapper::MCP::MessageReceiver
 
+=pkg Tapper::PRC
+
+=pkg Tapper::Installer
+
 1;

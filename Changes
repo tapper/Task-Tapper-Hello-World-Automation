@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - add modules for client-side control
 
 0.001     2012-11-26
         - Tapper - dependencies for an easy automation start
